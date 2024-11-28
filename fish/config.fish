@@ -17,6 +17,7 @@ zoxide init fish | source
 alias cat='bat'
 alias vim='lvim'
 alias vi='lvim'
+alias mpv='io.github.celluloid_player.Celluloid'
 
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 abbr mkdir 'mkdir -p'
