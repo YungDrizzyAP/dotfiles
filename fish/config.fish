@@ -57,3 +57,5 @@ set --export PATH $BUN_INSTALL/bin $PATH
 
 # Created by `pipx` on 2024-11-23 01:11:07
 set PATH $PATH /home/plato/.local/bin
+
+fish_add_path /home/plato/.spicetify

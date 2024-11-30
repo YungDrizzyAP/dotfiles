@@ -1,0 +1,8 @@
+[00:02:47 2024-11-29] FETCHING Version 2.38.5
+[00:02:47 2024-11-29] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.38.5/spicetify-2.38.5-linux-amd64.tar.gz
+[00:02:48 2024-11-29] EXTRACTING /home/plato/.spicetify/spicetify.tar.gz
+[00:02:48 2024-11-29] SETTING EXECUTABLE PERMISSIONS TO /home/plato/.spicetify/spicetify
+[00:02:48 2024-11-29] REMOVING /home/plato/.spicetify/spicetify.tar.gz
+[00:02:48 2024-11-29] spicetify path already set in /home/plato/.config/fish/config.fish, continuing...
+[00:02:48 2024-11-29] spicetify v2.38.5 was installed successfully to /home/plato/.spicetify
+[00:02:48 2024-11-29] Run 'spicetify --help' to get started
