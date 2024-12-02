@@ -18,6 +18,7 @@ alias cat='bat'
 alias vim='lvim'
 alias vi='lvim'
 alias mpv='io.github.celluloid_player.Celluloid'
+alias mp3='yt-dlp --extract-audio --audio-format mp3 --audio-quality 0'
 
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 abbr mkdir 'mkdir -p'
