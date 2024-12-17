@@ -3737,3 +3737,233 @@
 [2024-12-17 18:22:31.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
 [2024-12-17 18:22:31.734] [info]  [RTCControlSocket(default)] Heartbeat ACK received
 [2024-12-17 18:22:31.829] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:22:36.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:22:36.957] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:22:41.857] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:22:45.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:22:45.482] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:22:50.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:22:50.711] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:22:51.884] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:22:59.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:22:59.233] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:23:01.912] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:04.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:23:04.467] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:23:06.288] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 30
+}
+[2024-12-17 18:23:11.941] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:12.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:23:12.987] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:23:18.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:23:18.207] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:23:21.540] [info]  [ConnectionEventFramerateReducer] BaseConnection.userSpeakingChange: Reduced framerate after 15000 ms.
+[2024-12-17 18:23:21.540] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 20
+}
+[2024-12-17 18:23:21.945] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:26.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:23:26.771] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:23:31.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:23:31.953] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:31.960] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:23:40.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:23:40.497] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:23:42.024] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:45.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:23:45.706] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:23:52.056] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:23:54.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:23:54.231] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:23:59.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:23:59.466] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:24:02.083] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:07.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:24:07.992] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:24:12.115] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:13.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:24:13.206] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:24:21.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:24:21.739] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:24:22.144] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:26.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:24:26.966] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:24:32.175] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:35.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:24:35.487] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:24:40.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:24:40.705] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:24:42.203] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:49.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:24:49.235] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:24:52.232] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:24:54.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:24:54.462] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:24:56.179] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 30
+}
+[2024-12-17 18:25:02.262] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:02.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:25:02.991] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:25:08.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:25:08.205] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:25:12.264] [info]  [ConnectionEventFramerateReducer] BaseConnection.userSpeakingChange: Reduced framerate after 15000 ms.
+[2024-12-17 18:25:12.264] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 20
+}
+[2024-12-17 18:25:12.294] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:16.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:25:16.740] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:25:21.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:25:21.954] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:25:22.328] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:30.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:25:30.482] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:25:32.366] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:35.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:25:35.716] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:25:42.397] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:44.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:25:44.267] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:25:49.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:25:49.454] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:25:52.428] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:25:57.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:25:57.997] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:26:02.457] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:03.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:26:03.208] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:26:11.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:26:11.740] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:26:12.488] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:16.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:26:16.957] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:26:22.519] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:24.527] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 30
+}
+[2024-12-17 18:26:25.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:26:25.486] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:26:30.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:26:30.714] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:26:32.556] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:39.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:26:39.256] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:26:42.589] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:44.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:26:44.456] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:26:52.619] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:26:52.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:26:52.981] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:26:58.180] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:26:58.211] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:27:00.983] [info]  Unsubscribing from direct frames for streamId 6
+[2024-12-17 18:27:00.984] [info]  Unsubscribing from direct frames for streamId 3
+[2024-12-17 18:27:00.988] [info]  [DirectVideo] create video element for 6, readyState=0
+[2024-12-17 18:27:00.989] [info]  [DirectVideo] create video element for 3, readyState=0
+[2024-12-17 18:27:00.989] [info]  [DirectVideo] attaching srcObject for 6
+[2024-12-17 18:27:00.989] [info]  Subscribing to direct frames for streamId 6
+[2024-12-17 18:27:00.990] [info]  [StreamTile] Stream Tile State - activeStream: true | selected: false | Video: true | MediaEngine: true
+[2024-12-17 18:27:00.990] [info]  [DirectVideo] attaching srcObject for 3
+[2024-12-17 18:27:00.991] [info]  Subscribing to direct frames for streamId 3
+[2024-12-17 18:27:01.029] [info]  [DirectVideo] handleReady for 6, have onReady callback = true
+[2024-12-17 18:27:01.030] [info]  [VideoStream] spinner visible for 41 ms
+      [remote_stream, count for stream: 3]
+[2024-12-17 18:27:01.049] [info]  [DirectVideo] handleReady for 3, have onReady callback = true
+[2024-12-17 18:27:01.049] [info]  [VideoStream] spinner visible for 58 ms
+      [remote_video, count for stream: 6]
+[2024-12-17 18:27:01.096] [info]  [RTCConnection(1242222009723916389, default)] Media sink wants: {"11048":100,"11050":0,"any":100}
+[2024-12-17 18:27:01.568] [info]  [DirectVideo] create video element for 3, readyState=0
+[2024-12-17 18:27:01.568] [info]  [DirectVideo] create video element for 6, readyState=0
+[2024-12-17 18:27:01.569] [info]  [DirectVideo] create video element for 6, readyState=0
+[2024-12-17 18:27:01.578] [info]  Unsubscribing from direct frames for streamId 6
+[2024-12-17 18:27:01.579] [info]  Unsubscribing from direct frames for streamId 3
+[2024-12-17 18:27:01.579] [info]  [DirectVideo] attaching srcObject for 3
+[2024-12-17 18:27:01.579] [info]  Subscribing to direct frames for streamId 3
+[2024-12-17 18:27:01.579] [info]  [StreamTile] Stream Tile State - activeStream: true | selected: false | Video: true | MediaEngine: true
+[2024-12-17 18:27:01.580] [info]  [DirectVideo] attaching srcObject for 6
+[2024-12-17 18:27:01.580] [info]  Subscribing to direct frames for streamId 6
+[2024-12-17 18:27:01.580] [info]  [StreamTile] Stream Tile State - activeStream: true | selected: false | Video: true | MediaEngine: true
+[2024-12-17 18:27:01.596] [info]  [DirectVideo] handleReady for 6, have onReady callback = true
+[2024-12-17 18:27:01.596] [info]  [VideoStream] spinner visible for 16 ms
+      [remote_stream, count for stream: 4]
+[2024-12-17 18:27:01.845] [info]  [DirectVideo] handleReady for 3, have onReady callback = true
+[2024-12-17 18:27:01.846] [info]  [VideoStream] spinner visible for 266 ms
+      [remote_video, count for stream: 7]
+[2024-12-17 18:27:02.649] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:06.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:27:06.731] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:27:11.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:27:11.958] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:27:12.681] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:20.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:27:20.483] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:27:22.712] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:25.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:27:25.708] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:27:32.743] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:34.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:27:34.233] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:27:39.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:27:39.459] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:27:42.775] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:45.976] [info]  [ConnectionEventFramerateReducer] BaseConnection.userSpeakingChange: Reduced framerate after 15000 ms.
+[2024-12-17 18:27:45.976] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 20
+}
+[2024-12-17 18:27:47.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:27:47.996] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:27:52.802] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:27:53.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:27:53.205] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:28:01.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:28:01.734] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:28:02.835] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:06.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:28:06.964] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:28:12.865] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:15.294] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 30
+}
+[2024-12-17 18:28:15.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:28:15.480] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:28:20.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:28:20.707] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:28:22.905] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:29.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:28:29.232] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:28:30.546] [info]  [ConnectionEventFramerateReducer] BaseConnection.userSpeakingChange: Reduced framerate after 15000 ms.
+[2024-12-17 18:28:30.546] [info]  [Connection(default)] updateVideoQuality: {
+    "remoteSinkWantsMaxFramerate": 20
+}
+[2024-12-17 18:28:32.935] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:34.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:28:34.455] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:28:42.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:28:42.965] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:42.980] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:28:48.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:28:48.204] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:28:52.995] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:28:56.701] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:28:56.748] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:29:01.922] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:29:01.961] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:29:03.027] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:29:10.451] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:29:10.480] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:29:13.059] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:29:15.672] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:29:15.705] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:29:23.090] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:29:24.201] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:29:24.231] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:29:29.422] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:29:29.459] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
+[2024-12-17 18:29:33.123] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:29:37.951] [info]  [RTCControlSocket(default)] Sending heartbeat with last received sequence number: 10
+[2024-12-17 18:29:37.990] [info]  [RTCControlSocket(default)] Heartbeat ACK received
+[2024-12-17 18:29:43.155] [info]  [HDStreamingConsumableModal] Setting bitrates 9000000
+[2024-12-17 18:29:43.172] [info]  [RTCControlSocket(stream)] Sending heartbeat with last received sequence number: 11
+[2024-12-17 18:29:43.206] [info]  [RTCControlSocket(stream)] Heartbeat ACK received
