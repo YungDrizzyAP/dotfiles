@@ -1,4 +1,5 @@
 set fish_greeting
+set -U fish_prompt_pwd_dir_length 0
 set TERM xterm-256color
 # List Directory
 alias l='eza -lh  --icons=auto' # long list

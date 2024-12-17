@@ -1,0 +1,547 @@
+12/17/2024, 5:21:22 PM GMT [Modules] Modules initializing
+12/17/2024, 5:21:22 PM GMT [Modules] Distribution: remote
+12/17/2024, 5:21:22 PM GMT [Modules] Host updates: enabled
+12/17/2024, 5:21:22 PM GMT [Modules] Module updates: enabled
+12/17/2024, 5:21:22 PM GMT [Modules] Module install path: /home/plato/.config/discordcanary/0.0.548/modules
+12/17/2024, 5:21:22 PM GMT [Modules] Module installed file path: /home/plato/.config/discordcanary/0.0.548/modules/installed.json
+12/17/2024, 5:21:22 PM GMT [Modules] Module download path: /home/plato/.config/discordcanary/0.0.548/modules/pending
+12/17/2024, 5:21:22 PM GMT [Modules] Bootstrapping...
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_desktop_core@0 from /opt/discord-canary/resources/bootstrap/discord_desktop_core.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_desktop_core.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_erlpack@0 from /opt/discord-canary/resources/bootstrap/discord_erlpack.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_erlpack.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_spellcheck@0 from /opt/discord-canary/resources/bootstrap/discord_spellcheck.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_spellcheck.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_utils@0 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_utils.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_voice@0 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_voice.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Installing discord_zstd@0 from /opt/discord-canary/resources/bootstrap/discord_zstd.zip
+12/17/2024, 5:21:22 PM GMT [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_zstd.zip'
+12/17/2024, 5:21:22 PM GMT [Modules] Finished module installations. [success: 0] [failure: 6]
+12/17/2024, 5:21:22 PM GMT [Modules] Checking for host updates.
+12/17/2024, 5:21:22 PM GMT [Modules] Host is up to date.
+12/17/2024, 5:21:22 PM GMT [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_erlpack@1 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_utils@2 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_voice@2 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Module update available: discord_zstd@1 [installed: 0]
+12/17/2024, 5:21:22 PM GMT [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/canary/discord_desktop_core/1
+12/17/2024, 5:21:22 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 1%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 2%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 3%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 4%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 7%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 8%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 11%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 12%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 13%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 16%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 19%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 20%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 23%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 24%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 27%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 28%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 30%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 34%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 37%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 40%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 43%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 44%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 50%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 53%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 54%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 58%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 61%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 63%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 67%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 72%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 77%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 80%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 82%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 87%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 90%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 92%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 98%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_desktop_core@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip: 100%
+12/17/2024, 5:21:23 PM GMT [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/canary/discord_erlpack/1
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 3%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 6%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 24%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 39%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 42%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 44%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 49%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 52%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 54%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 57%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 59%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 63%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 67%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 69%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 74%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 77%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 80%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 85%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 88%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 89%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 95%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 96%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 98%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_erlpack@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip: 100%
+12/17/2024, 5:21:23 PM GMT [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/canary/discord_spellcheck/1
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 1%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 2%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 3%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 4%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 5%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 6%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 7%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 8%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 9%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 10%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 11%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 12%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 13%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 14%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 15%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 16%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 17%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 18%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 19%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 20%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 21%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 22%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 23%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 24%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 25%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 26%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 27%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 28%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 30%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 31%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 32%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 33%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 34%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 35%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 36%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 37%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 38%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 39%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 40%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 41%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 42%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 43%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 44%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 45%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 46%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 47%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 48%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 49%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 50%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 51%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 52%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 53%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 54%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 55%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 56%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 57%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 58%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 59%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 60%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 61%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 62%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 63%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 64%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 65%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 66%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 67%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 68%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 69%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 70%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 71%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 72%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 73%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 74%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 75%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 76%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 77%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 78%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 79%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 80%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 81%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 82%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 83%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 84%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 85%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 86%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 87%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 88%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 89%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 90%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 91%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 92%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 93%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 94%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 95%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 96%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 97%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 98%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 99%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_spellcheck@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip: 100%
+12/17/2024, 5:21:23 PM GMT [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/canary/discord_utils/2
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 1%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 3%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 4%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 9%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 16%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 20%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 22%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 27%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 30%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 31%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 33%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 35%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 37%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 39%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 41%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 43%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 44%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 47%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 49%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 51%
+12/17/2024, 5:21:23 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 52%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 53%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 54%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 56%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 58%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 60%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 61%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 62%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 63%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 64%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 65%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 67%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 68%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 70%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 72%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 74%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 75%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 76%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 77%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 78%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 80%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 81%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 83%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 85%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 86%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 87%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 88%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 89%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 91%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 92%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 94%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 95%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 97%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 99%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_utils@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip: 100%
+12/17/2024, 5:21:24 PM GMT [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/canary/discord_voice/2
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 1%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 2%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 3%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 4%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 5%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 6%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 7%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 8%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 9%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 10%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 11%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 12%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 13%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 14%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 15%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 16%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 17%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 18%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 19%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 20%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 21%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 22%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 23%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 24%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 25%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 26%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 27%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 28%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 29%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 30%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 31%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 32%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 33%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 34%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 35%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 36%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 37%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 38%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 39%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 40%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 41%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 42%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 43%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 44%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 45%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 46%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 47%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 48%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 49%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 50%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 51%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 52%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 53%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 54%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 55%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 56%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 57%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 58%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 59%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 60%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 61%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 62%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 63%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 64%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 65%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 66%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 67%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 68%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 69%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 70%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 71%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 72%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 73%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 74%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 75%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 76%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 77%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 78%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 79%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 80%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 81%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 82%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 83%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 84%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 85%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 86%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 87%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 88%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 89%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 90%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 91%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 92%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 93%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 94%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 95%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 96%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 97%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 98%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 99%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_voice@2 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip: 100%
+12/17/2024, 5:21:24 PM GMT [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/canary/discord_zstd/1
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_zstd@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_zstd@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip: 6%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_zstd@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip: 11%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_zstd@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip: 62%
+12/17/2024, 5:21:24 PM GMT [Modules] Streaming discord_zstd@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip: 100%
+12/17/2024, 5:21:24 PM GMT [Modules] Finished module downloads. [success: 6] [failure: 0]
+12/17/2024, 5:21:24 PM GMT [Modules] Installing updates...
+12/17/2024, 5:21:24 PM GMT [Modules] Installing discord_desktop_core@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_desktop_core-1.zip
+12/17/2024, 5:21:24 PM GMT [Modules] Installing discord_erlpack@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_erlpack-1.zip
+12/17/2024, 5:21:24 PM GMT [Modules] Installing discord_spellcheck@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_spellcheck-1.zip
+12/17/2024, 5:21:25 PM GMT [Modules] Installing discord_utils@2 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_utils-2.zip
+12/17/2024, 5:21:25 PM GMT [Modules] Installing discord_voice@2 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_voice-2.zip
+12/17/2024, 5:21:25 PM GMT [Modules] Installing discord_zstd@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_zstd-1.zip
+12/17/2024, 5:21:25 PM GMT [Modules] Finished module installations. [success: 6] [failure: 0]
+12/17/2024, 5:21:25 PM GMT [Modules] Checking for host updates.
+12/17/2024, 5:21:25 PM GMT [Modules] Host is up to date.
+12/17/2024, 5:21:25 PM GMT [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+12/17/2024, 5:21:25 PM GMT [Modules] No module updates available.
+12/17/2024, 5:21:26 PM GMT [Modules] Starting to install discord_krisp...
+12/17/2024, 5:21:26 PM GMT [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/canary/discord_krisp/1
+12/17/2024, 5:21:26 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip
+12/17/2024, 5:21:26 PM GMT [Modules] Starting to install discord_game_utils...
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 1%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 2%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 3%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 4%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 5%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 6%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 7%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 8%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 9%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 10%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 11%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 12%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 13%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 14%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 15%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 16%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 17%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 18%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 19%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 20%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 21%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 22%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 23%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 24%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 25%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 26%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 27%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 28%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 29%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 30%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 31%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 32%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 33%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 34%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 35%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 36%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 37%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 38%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 39%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 40%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 41%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 42%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 43%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 44%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 45%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 46%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 47%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 48%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 49%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 50%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 51%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 52%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 53%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 54%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 55%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 56%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 57%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 58%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 59%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 60%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 61%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 62%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 63%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 64%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 65%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 66%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 67%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 68%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 69%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 70%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 71%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 72%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 73%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 74%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 75%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 76%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 77%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 78%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 79%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 80%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 81%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 82%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 83%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 84%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 85%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 86%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 87%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 88%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 89%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 90%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 91%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 92%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 93%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 94%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 95%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 96%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 97%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 98%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_krisp@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip: 100%
+12/17/2024, 5:21:27 PM GMT [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/canary/discord_game_utils/1
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip
+12/17/2024, 5:21:27 PM GMT [Modules] Installing discord_krisp@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_krisp-1.zip
+12/17/2024, 5:21:27 PM GMT [Modules] Checking for host updates.
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 1%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 3%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 5%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 8%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 12%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 17%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 22%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 26%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 29%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 30%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 31%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 32%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 33%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 35%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 36%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 37%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 38%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 39%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 40%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 41%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 58%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 61%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 62%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 64%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 66%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 67%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 69%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 70%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 73%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 74%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 75%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 77%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 78%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 80%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 81%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 82%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 88%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 90%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 91%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 93%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 94%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 95%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 96%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 97%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 98%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 99%
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_game_utils@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip: 100%
+12/17/2024, 5:21:27 PM GMT [Modules] Finished module downloads. [success: 2] [failure: 0]
+12/17/2024, 5:21:27 PM GMT [Modules] Installing discord_game_utils@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_game_utils-1.zip
+12/17/2024, 5:21:27 PM GMT [Modules] Starting to install discord_rpc...
+12/17/2024, 5:21:27 PM GMT [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/canary/discord_rpc/1
+12/17/2024, 5:21:27 PM GMT [Modules] Streaming discord_rpc@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_rpc-1.zip
+12/17/2024, 5:21:27 PM GMT [Modules] Finished module installations. [success: 2] [failure: 0]
+12/17/2024, 5:21:27 PM GMT [Modules] Host is up to date.
+12/17/2024, 5:21:27 PM GMT [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+12/17/2024, 5:21:27 PM GMT [Modules] No module updates available.
+12/17/2024, 5:21:28 PM GMT [Modules] Streaming discord_rpc@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_rpc-1.zip: 96%
+12/17/2024, 5:21:28 PM GMT [Modules] Streaming discord_rpc@1 to /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_rpc-1.zip: 100%
+12/17/2024, 5:21:28 PM GMT [Modules] Finished module downloads. [success: 1] [failure: 0]
+12/17/2024, 5:21:28 PM GMT [Modules] Installing discord_rpc@1 from /home/plato/.config/discordcanary/0.0.548/modules/pending/discord_rpc-1.zip
+12/17/2024, 5:21:28 PM GMT [Modules] Finished module installations. [success: 1] [failure: 0]
+12/17/2024, 6:21:27 PM GMT [Modules] Checking for host updates.
+12/17/2024, 6:21:27 PM GMT [Modules] Host is up to date.
+12/17/2024, 6:21:27 PM GMT [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+12/17/2024, 6:21:27 PM GMT [Modules] No module updates available.

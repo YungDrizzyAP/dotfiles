@@ -1,0 +1,8 @@
+2024/12/17-17:21:22.373 6c8b Creating DB /home/plato/.config/discordcanary/Local Storage/leveldb since it was missing.
+2024/12/17-17:21:22.383 6c8b Reusing MANIFEST /home/plato/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2024/12/17-17:25:44.317 6c8b Level-0 table #5: started
+2024/12/17-17:25:44.341 6c8b Level-0 table #5: 3300350 bytes OK
+2024/12/17-17:25:44.343 6c8b Delete type=0 #3
+2024/12/17-18:18:26.076 6c8c Level-0 table #7: started
+2024/12/17-18:18:26.081 6c8c Level-0 table #7: 26226 bytes OK
+2024/12/17-18:18:26.083 6c8c Delete type=0 #4
